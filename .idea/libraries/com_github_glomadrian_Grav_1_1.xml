@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.glomadrian:Grav-1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Grav-1.1.aar/ca059e1612288cc8b463b5e5aeeebcab/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Grav-1.1.aar/ca059e1612288cc8b463b5e5aeeebcab/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.glomadrian/Grav/1.1/febd86c4850b1bb2cc1e4d5781a74b223017e533/Grav-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.edmodo:cropper-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cropper-1.0.1.aar/f0768d2012baea02e01187a0438f73e7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cropper-1.0.1.aar/f0768d2012baea02e01187a0438f73e7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
