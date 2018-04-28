@@ -1,5 +1,5 @@
 # instagram_private_api_endpoint
-instagram private api endpoint of App and Web
+instagram private api endpoint of App and Web for Android
 
 This project contains instagram private API of Web and App.
 
