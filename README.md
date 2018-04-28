@@ -1,7 +1,6 @@
 # instagram_private_api_endpoint
 instagram private api endpoint of App and Web
 
-Check com.studio1221.instagram_api_manager.endpoint.
 This project contains instagram private API of Web and App.
 
 All api call classes extend ApiCall class.
@@ -20,7 +19,9 @@ new WebGetUserInfo(instaWebApiClient)
                 //to do something.
             }
         });
+```
 
+```java
 //Sync call
 ApiResult<InstaUserWebSummary> apiResult = new WebGetUserInfo(instaWebApiClient)
                 .setParam("userName", instaAppApiClient.userName)
@@ -28,4 +29,8 @@ ApiResult<InstaUserWebSummary> apiResult = new WebGetUserInfo(instaWebApiClient)
 InstaUserWebSummary instaUserWebSummary = apiResult.object;
 ```
 
+To check more Api,
+See classes in this package 'com.studio1221.instagram_api_manager.endpoint'
+
 ** It is not legally responsible.
+
